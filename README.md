@@ -1,5 +1,2 @@
-***Desktop_Notifier***
-__________________________________________
-Create a desktop notifier by using python
-
-
+# Rock_Paper_Scissor
+Create a rock paper scissor game
